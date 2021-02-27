@@ -12,7 +12,6 @@ Consider the following for this program:
     ~ If your lower bound is unintentionally higher than your upper bound, simply flip the sign as per the proprty of integrals
     ~ DO NOT enter formulas with singularities within the given range, you will likely receive an incorrect answer
     ~ It is recommeded to surround your expression in double quotes when entering using the command line, though it is not essential
-    ~ 
 */
 #include <iostream>
 #include <string>
